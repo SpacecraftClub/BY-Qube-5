@@ -1,4 +1,5 @@
 # BY-QUBE-5
+<img src="markdown/spacecraft club logo.png" alt="BY-QUBE-4 1" height="100"></img><img src="markdown/silk logo inverted.png" alt="BY-QUBE-4 1" height="100"></img><br>
 The fith itteration of BYU Spacecraft's PocketQube project. Based on the success of BY-QUBE-4 we aim to itterate and improve on our previous designs.
 ## Preamble
 For the last 4 years, undergraduate students have participated in the BY-QUBE 1p pocketqube program. 
