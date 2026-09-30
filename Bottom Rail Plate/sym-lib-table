@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "silk logo") (type "KiCad") (uri "${KIPRJMOD}/silk logo.kicad_sym") (options "") (descr ""))
+	(lib (name "ESE-18x11B") (type "KiCad") (uri "${KIPRJMOD}/ESE-18x11B.pretty/ESE-18x11B.kicad_sym") (options "") (descr ""))
+)

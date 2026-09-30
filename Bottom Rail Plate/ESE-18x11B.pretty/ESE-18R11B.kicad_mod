@@ -1,0 +1,236 @@
+(footprint "ESE-18R11B"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 3.8 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "fe4cec21-beac-4bf0-930e-b77ccbb0d7b5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "ESE-18R11B"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "aeda9a37-43c5-4716-8182-45d4e2460d4c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "80a43637-c70a-4e8d-bd49-b97d7b9ee9dc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "05eb82a8-aa86-4705-a2e7-907499c692c8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -2.2 -2.4)
+		(end 2.2 -2.4)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d3200be3-0139-4a95-a548-5c5ec6719eae")
+	)
+	(fp_line
+		(start -2.2 -1.1)
+		(end -2.2 -2.4)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "250d45e4-071f-4b45-b1db-106812a0391c")
+	)
+	(fp_line
+		(start -2.2 0.1)
+		(end -2.2 2.3)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "113b6707-86bc-4bcf-aeff-13d06d126c3b")
+	)
+	(fp_line
+		(start -2.2 2.3)
+		(end -2 2.3)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "dd261f07-51d2-406f-b19d-c3017727a2a1")
+	)
+	(fp_line
+		(start -0.7 2.3)
+		(end 0 2.3)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "bc962d4d-f1f6-4bfb-94e9-db3641052091")
+	)
+	(fp_line
+		(start 0.7 2.3)
+		(end 0 2.3)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "e01c3c67-9ab5-459e-8887-cc52801d7a5b")
+	)
+	(fp_line
+		(start 2.2 -1.1)
+		(end 2.2 -2.4)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "46db9473-08a3-46df-b216-73af1c04a144")
+	)
+	(fp_line
+		(start 2.2 0.1)
+		(end 2.2 2.3)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "f29b0f0a-b985-418d-a8df-4539b7e9cb5b")
+	)
+	(fp_line
+		(start 2.2 2.3)
+		(end 2 2.3)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "01eece14-f380-4604-a791-28c9664ba350")
+	)
+	(fp_rect
+		(start -2.2 2.3)
+		(end 2.2 -2.6)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "b3d2667b-9ccc-4f87-b157-4ade18abae56")
+	)
+	(fp_rect
+		(start -0.7 -2.6)
+		(end 2.2 -4.1)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "63b642b9-2e13-4316-8643-7976b1c8f5d9")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "3b9afb64-8d39-4742-b72f-f8b9f16a4033")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "" np_thru_hole circle
+		(at 0 -1.2)
+		(size 0.5 0.5)
+		(drill 0.8)
+		(layers "*.Mask")
+		(uuid "6c0aa109-20ca-49d9-a9fb-c2d90433b127")
+	)
+	(pad "" np_thru_hole circle
+		(at 0 0.8)
+		(size 0.5 0.5)
+		(drill 0.8)
+		(layers "*.Mask")
+		(uuid "506a2ccd-3a00-45cb-99dc-f44a630a79ab")
+	)
+	(pad "0" smd roundrect
+		(at -2.15 -0.5)
+		(size 1.1 0.9)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "1086dfb3-9ef9-49fd-b971-0d5a2bec7ed1")
+	)
+	(pad "0" smd roundrect
+		(at 2.15 -0.5)
+		(size 1.1 0.9)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "5ca147c1-46b4-4e36-a260-290625410e10")
+	)
+	(pad "1" smd roundrect
+		(at -1.35 2.2)
+		(size 0.9 0.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "13dfa13c-fe9e-45ec-873e-5860e7a36e5e")
+	)
+	(pad "2" smd roundrect
+		(at 1.35 2.2)
+		(size 0.9 0.8)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(roundrect_rratio 0.25)
+		(uuid "d250eaae-c77e-453f-bd99-299da59c586d")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/ESE-18x11B.pretty/ESE18R11B.step"
+		(offset
+			(xyz 0 0.2 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)

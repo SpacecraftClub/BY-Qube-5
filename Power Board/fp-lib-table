@@ -1,0 +1,13 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "EPL3015 Inductor") (type "KiCad") (uri "${KIPRJMOD}/Libraries/EPL3015 Inductor") (options "") (descr ""))
+	(lib (name "INA260") (type "KiCad") (uri "${KIPRJMOD}/Libraries/INA260") (options "") (descr ""))
+	(lib (name "JST SH Connectors") (type "KiCad") (uri "${KIPRJMOD}/Libraries/JST SH Connectors") (options "") (descr ""))
+	(lib (name "LTC3130") (type "KiCad") (uri "${KIPRJMOD}/Libraries/LTC3130") (options "") (descr ""))
+	(lib (name "LTC4056-4.2") (type "KiCad") (uri "${KIPRJMOD}/Libraries/LTC4056-4.2") (options "") (descr ""))
+	(lib (name "NSS60200 PNP Transistor") (type "KiCad") (uri "${KIPRJMOD}/Libraries/NSS60200 PNP Transistor") (options "") (descr ""))
+	(lib (name "SamacSys_Parts") (type "KiCad") (uri "${KIPRJMOD}/Libraries/SamacSys_Parts.pretty") (options "") (descr ""))
+	(lib (name "SM101K") (type "KiCad") (uri "${KIPRJMOD}/Libraries/SM101K") (options "") (descr ""))
+	(lib (name "M55_7101242R") (type "KiCad") (uri "${KIPRJMOD}/Libraries/M55_7101242R") (options "") (descr ""))
+	(lib (name "PocketQube Footprints") (type "KiCad") (uri "${KIPRJMOD}/PocketQube Footprints.pretty") (options "") (descr ""))
+)

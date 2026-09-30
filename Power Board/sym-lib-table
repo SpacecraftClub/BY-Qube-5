@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "M55_7101242R") (type "KiCad") (uri "${KIPRJMOD}/Libraries/M55_7101242R/M55_7101242R.kicad_sym") (options "") (descr ""))
+	(lib (name "silk logo") (type "KiCad") (uri "${KIPRJMOD}/silk logo.kicad_sym") (options "") (descr ""))
+)

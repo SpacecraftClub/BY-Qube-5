@@ -1,0 +1,5 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "SM101K") (type "KiCad") (uri "${KIPRJMOD}/SM101K") (options "") (descr ""))
+	(lib (name "PocketQube Footprints") (type "KiCad") (uri "${KIPRJMOD}/PocketQube Footprints.pretty") (options "") (descr ""))
+)

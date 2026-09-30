@@ -1,0 +1,6 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "M55-6001242R") (type "KiCad") (uri "${KIPRJMOD}/M55-6001242R") (options "") (descr ""))
+	(lib (name "SM101K") (type "KiCad") (uri "${KIPRJMOD}/SM101K") (options "") (descr ""))
+	(lib (name "PocketQube Footprints") (type "KiCad") (uri "${KIPRJMOD}/PocketQube Footprints.pretty") (options "") (descr ""))
+)

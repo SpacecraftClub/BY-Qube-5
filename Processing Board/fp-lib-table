@@ -1,0 +1,10 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "MEM2061_01_188_00_A") (type "KiCad") (uri "${KIPRJMOD}/MEM2061_01_188_00_A") (options "") (descr ""))
+	(lib (name "Seeed Studio XIAO Series Library") (type "KiCad") (uri "${KIPRJMOD}/Seeed Studio XIAO Series Library") (options "") (descr ""))
+	(lib (name "RFM95W-868S2") (type "KiCad") (uri "${KIPRJMOD}/RFM95W-868S2") (options "") (descr ""))
+	(lib (name "M55_7101242R") (type "KiCad") (uri "${KIPRJMOD}/M55_7101242R") (options "") (descr ""))
+	(lib (name "M55-6011242R") (type "KiCad") (uri "${KIPRJMOD}/M55-6011242R") (options "") (descr ""))
+	(lib (name "SM101K") (type "KiCad") (uri "${KIPRJMOD}/SM101K") (options "") (descr ""))
+	(lib (name "PocketQube Footprints") (type "KiCad") (uri "${KIPRJMOD}/PocketQube Footprints.pretty") (options "") (descr ""))
+)

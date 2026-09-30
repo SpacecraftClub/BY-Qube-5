@@ -1,0 +1,33 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP LTC4056ETS8-4.2#TRPBF
+D Battery Management Monolithic Li-Ion Charger Controller w/Ilim
+K
+F https://www.analog.com/media/en/technical-documentation/data-sheets/405642f.pdf
+$ENDCMP
+#
+$CMP LTC4056ETS8-4.2#TRMPBF
+D Battery Management Monolithic Li-Ion Charger Controller w/Ilim
+K
+F https://www.mouser.com/datasheet/2/609/405642f-1271152.pdf
+$ENDCMP
+#
+$CMP LTC3130EUDC#PBF
+D LINEAR TECHNOLOGY - LTC3130EUDC#PBF - DC/DC CONV, BUCK-BOOST, 1-25V, QFN-20
+K
+F http://cds.linear.com/docs/en/datasheet/3130f.pdf
+$ENDCMP
+#
+$CMP LTC3130EMSE#PBF
+D LINEAR TECHNOLOGY - LTC3130EMSE#PBF - DC/DC CONV, BUCK-BOOST, 1-25V, MSOP-16
+K
+F http://cds.linear.com/docs/en/datasheet/3130f.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LTC4056ETS8-4.2#TRMPBF
+D Battery Management Monolithic Li-Ion Charger Controller w/Ilim
+K
+F https://www.mouser.com/datasheet/2/609/405642f-1271152.pdf
+$ENDCMP
+#
+#End Doc Library
