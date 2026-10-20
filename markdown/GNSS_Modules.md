@@ -14,7 +14,7 @@
 **Notes:** Bare receiver chip; operating temperature -40 to +85 C.
 
 ## Quectel_L76K
-**Price:** $15 (previously listed; exact current price not independently verified)
+**Price:** $15 
 **Temperature:** -40 to 85 C
 **Dimensions:** 9.95mm x 10.25mm
 **Power Requirements:** 2.7 V minimum (3.3 V typical, 3.4 V maximum). The absolute maximum is 3.6 V.
