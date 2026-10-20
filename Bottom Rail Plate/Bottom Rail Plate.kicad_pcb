@@ -90,7 +90,7 @@
 	(footprint "ESE-18x11B:ESE-18R11B"
 		(layer "F.Cu")
 		(uuid "7b9a9233-3ed5-4449-8cea-10feeccaf91e")
-		(at 147 77.6)
+		(at 143.6 79.4)
 		(property "Reference" "SW2"
 			(at 0 3.8 0)
 			(unlocked yes)
@@ -1837,7 +1837,7 @@
 	(footprint "ESE-18x11B:ESE-18L11B"
 		(layer "F.Cu")
 		(uuid "8ed2fc68-0663-425f-97f6-063dd676b9e3")
-		(at 147 122.4 180)
+		(at 143.6 120.6 180)
 		(property "Reference" "SW1"
 			(at 0 3.8 180)
 			(unlocked yes)
@@ -3585,8 +3585,52 @@
 		(embedded_fonts no)
 	)
 	(gr_rect
-		(start 100 75)
-		(end 150 125)
+		(start 93 71)
+		(end 157 75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Mask")
+		(uuid "8c581876-4664-4c78-aaf9-a22c01e05849")
+	)
+	(gr_rect
+		(start 93 125)
+		(end 157 129)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Mask")
+		(uuid "7a77e5d9-5bc6-4088-9aa8-9170c8a72b59")
+	)
+	(gr_rect
+		(start 93 71)
+		(end 157 75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "B.Mask")
+		(uuid "c697ef75-9df9-4296-ade8-c94b05052cd4")
+	)
+	(gr_rect
+		(start 93 125)
+		(end 157 129)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "B.Mask")
+		(uuid "e4834c3f-086d-4d75-aa96-e5eb045ff071")
+	)
+	(gr_rect
+		(start 101.8 76.8)
+		(end 148.2 123.2)
 		(stroke
 			(width 0.1)
 			(type solid)

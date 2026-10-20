@@ -1714,7 +1714,7 @@
 		(locked yes)
 		(layer "B.Cu")
 		(uuid "ddaa855f-5355-467c-8b6f-2cd921c3fae5")
-		(at 125 92.1375 90)
+		(at 125 93.9375 90)
 		(descr "surface-mounted straight pin header, 1x02, 2.54mm pitch, single row, style 2 (pin 1 right)")
 		(tags "Surface mounted pin header SMD 1x02 2.54mm single row style2 pin1 right")
 		(property "Reference" "J1"
@@ -2035,8 +2035,8 @@
 		)
 	)
 	(gr_rect
-		(start 101.6 76.6)
-		(end 148.4 125)
+		(start 103.4 78.4)
+		(end 146.6 125)
 		(stroke
 			(width 0.05)
 			(type solid)

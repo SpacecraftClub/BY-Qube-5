@@ -1714,7 +1714,7 @@
 		(locked yes)
 		(layer "B.Cu")
 		(uuid "ddaa855f-5355-467c-8b6f-2cd921c3fae5")
-		(at 125 92.1375 90)
+		(at 125 93.9375 90)
 		(descr "surface-mounted straight pin header, 1x02, 2.54mm pitch, single row, style 2 (pin 1 right)")
 		(tags "Surface mounted pin header SMD 1x02 2.54mm single row style2 pin1 right")
 		(property "Reference" "J1"
@@ -2035,8 +2035,8 @@
 		)
 	)
 	(gr_line
-		(start 100 76.6)
-		(end 100 125)
+		(start 101.8 78.4)
+		(end 101.8 125)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -2045,28 +2045,28 @@
 		(uuid "b4bc5e8d-e125-4d48-9c69-6328fc40341d")
 	)
 	(gr_line
-		(start 100 76.6)
-		(end 108.3 76.6)
+		(start 101.8 78.4)
+		(end 108.3 78.4)
 		(stroke
 			(width 0.05)
-			(type default)
+			(type solid)
 		)
 		(layer "Edge.Cuts")
 		(uuid "6d4da669-8d94-4ce6-988b-fd38a1848851")
 	)
 	(gr_line
-		(start 108.3 78.6)
-		(end 108.3 76.6)
+		(start 108.3 80.4)
+		(end 108.3 78.4)
 		(stroke
 			(width 0.05)
-			(type default)
+			(type solid)
 		)
 		(layer "Edge.Cuts")
 		(uuid "750a309d-d32a-46ae-b271-6c3ffc8a289c")
 	)
 	(gr_line
-		(start 108.3 78.6)
-		(end 122.4 78.6)
+		(start 108.3 80.4)
+		(end 122.4 80.4)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -2075,40 +2075,40 @@
 		(uuid "5cca8696-34ad-44ff-9fac-6159b32098f3")
 	)
 	(gr_line
-		(start 122.4 76.6)
-		(end 150 76.6)
+		(start 122.4 78.4)
+		(end 148.2 78.4)
 		(stroke
 			(width 0.05)
-			(type default)
+			(type solid)
 		)
 		(layer "Edge.Cuts")
 		(uuid "e4ea0800-ee8e-419b-b3ab-7067c48d73dc")
 	)
 	(gr_line
-		(start 122.4 78.6)
-		(end 122.4 76.6)
+		(start 122.4 80.4)
+		(end 122.4 78.4)
 		(stroke
 			(width 0.05)
-			(type default)
+			(type solid)
 		)
 		(layer "Edge.Cuts")
 		(uuid "4cab26cb-8374-4137-8833-95c476be03e5")
 	)
 	(gr_line
-		(start 128.34997 80.075039)
-		(end 128.349977 78.974934)
+		(start 128.34997 81.875039)
+		(end 128.349977 80.774934)
 		(stroke
 			(width 0.05)
-			(type default)
+			(type solid)
 		)
 		(locked yes)
 		(layer "Edge.Cuts")
 		(uuid "66c94f69-41ad-4fc4-a139-49ffec3cc9b1")
 	)
 	(gr_arc
-		(start 128.349977 78.974934)
-		(mid 128.701456 78.126435)
-		(end 129.549961 77.77497)
+		(start 128.349977 80.774934)
+		(mid 128.701464 79.926447)
+		(end 129.549959 79.574977)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -2118,9 +2118,9 @@
 		(uuid "ad7f3c80-54b7-4cd3-88cc-aaee6151fb77")
 	)
 	(gr_arc
-		(start 129.549934 81.275023)
-		(mid 128.701435 80.923544)
-		(end 128.34997 80.075039)
+		(start 129.549934 83.075023)
+		(mid 128.701447 82.723536)
+		(end 128.349977 81.875041)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -2130,31 +2130,31 @@
 		(uuid "99a3b776-f621-4867-83b2-dd22d7f0633e")
 	)
 	(gr_line
-		(start 129.549961 77.77497)
-		(end 136.450066 77.774977)
+		(start 129.549961 79.57497)
+		(end 136.450066 79.574977)
 		(stroke
 			(width 0.05)
-			(type default)
+			(type solid)
 		)
 		(locked yes)
 		(layer "Edge.Cuts")
 		(uuid "3f5ed8ad-2bfc-4b97-b44f-29397f0c1c3f")
 	)
 	(gr_line
-		(start 136.450039 81.27503)
-		(end 129.549934 81.275023)
+		(start 136.450039 83.07503)
+		(end 129.549934 83.075023)
 		(stroke
 			(width 0.05)
-			(type default)
+			(type solid)
 		)
 		(locked yes)
 		(layer "Edge.Cuts")
 		(uuid "a349203e-e20e-46e8-8983-ea6db5f2b482")
 	)
 	(gr_arc
-		(start 136.450066 77.774977)
-		(mid 137.298565 78.126456)
-		(end 137.65003 78.974961)
+		(start 136.450066 79.574977)
+		(mid 137.298553 79.926464)
+		(end 137.650023 80.774959)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -2164,9 +2164,9 @@
 		(uuid "4bb88183-5710-41b4-8d10-1badb0257773")
 	)
 	(gr_arc
-		(start 137.650023 80.075066)
-		(mid 137.298544 80.923565)
-		(end 136.450039 81.27503)
+		(start 137.650023 81.875066)
+		(mid 137.298536 82.723553)
+		(end 136.450041 83.075023)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -2176,19 +2176,59 @@
 		(uuid "63437859-7b27-4cc2-90fd-6610b4a18bba")
 	)
 	(gr_line
-		(start 137.65003 78.974961)
-		(end 137.650023 80.075066)
+		(start 137.65003 80.774961)
+		(end 137.650023 81.875066)
 		(stroke
 			(width 0.05)
-			(type default)
+			(type solid)
 		)
 		(locked yes)
 		(layer "Edge.Cuts")
 		(uuid "943ea500-c6e8-4144-beb8-318bc2b3fe7b")
 	)
 	(gr_line
-		(start 150 76.6)
-		(end 150 125)
+		(start 141.1 123.65)
+		(end 146.6 123.65)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "87879fd3-441d-4365-b2a1-e96ab5c3668c")
+	)
+	(gr_line
+		(start 141.1 125)
+		(end 101.8 125)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "8622aacf-69ab-4e44-b5ab-ecc5dd83c2db")
+	)
+	(gr_line
+		(start 141.1 125)
+		(end 141.1 123.65)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "Edge.Cuts")
+		(uuid "9ce7d062-a3e1-4ce5-bfa8-c11ca3862f80")
+	)
+	(gr_line
+		(start 146.6 123.65)
+		(end 146.6 125)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "553ec121-c352-4900-bb08-1e042edb88d2")
+	)
+	(gr_line
+		(start 148.2 78.4)
+		(end 148.2 125)
 		(stroke
 			(width 0.05)
 			(type solid)
@@ -2197,17 +2237,29 @@
 		(uuid "62b56656-db49-4835-8ddb-9bc9482b8334")
 	)
 	(gr_line
-		(start 150 125)
-		(end 100 125)
+		(start 148.2 125)
+		(end 146.6 125)
 		(stroke
 			(width 0.05)
-			(type solid)
+			(type default)
 		)
 		(layer "Edge.Cuts")
-		(uuid "8622aacf-69ab-4e44-b5ab-ecc5dd83c2db")
+		(uuid "063d9392-3c4e-4f97-b26f-38786446e64a")
+	)
+	(gr_text "Name L. Name L. Name L. Name L. Name L. Name L. Name L.\nName L. Name L. Name L. Name L. Name L. Name L."
+		(at 104 123 0)
+		(layer "F.SilkS")
+		(uuid "7a3ec15b-fe13-4f25-9e07-ddd9fb810717")
+		(effects
+			(font
+				(size 1 0.9)
+				(thickness 0.15)
+			)
+			(justify left)
+		)
 	)
 	(gr_text "SD DATA"
-		(at 101.05 78.525 0)
+		(at 102 80 0)
 		(layer "F.SilkS")
 		(uuid "5dba5e2a-865b-4baf-bf55-45e254b8abfd")
 		(effects
@@ -2219,7 +2271,7 @@
 		)
 	)
 	(gr_text "USB Prog.\nBAT Charge"
-		(at 137.975 79.55 0)
+		(at 138.5 81 0)
 		(layer "F.SilkS")
 		(uuid "929adc37-b292-4c74-a511-a4c6892ad7a0")
 		(effects
@@ -2231,20 +2283,9 @@
 		)
 	)
 	(gr_text "Far Solar Panel\nMM-DD-YYYY REV: XX "
-		(at 115.5 81.1 -0)
+		(at 115.5 82 -0)
 		(layer "F.SilkS")
 		(uuid "aa37beb8-4776-46e9-9cbf-a100cff25fed")
-		(effects
-			(font
-				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(gr_text "Name L. Name L. Name L. Name L. Name L. Name L. Name L.\nName L. Name L. Name L. Name L. Name L. Name L. Name L."
-		(at 125 122.7 0)
-		(layer "F.SilkS")
-		(uuid "7a3ec15b-fe13-4f25-9e07-ddd9fb810717")
 		(effects
 			(font
 				(size 1 1)
