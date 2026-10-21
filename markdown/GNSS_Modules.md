@@ -1,3 +1,18 @@
+## u-blox MIA-M10C-00B
+**Price:** $7 https://www.xonelec.com/mpn/u-blox/miam10c00b?utm_source=chatgpt.com&oppcref=e3645562-de54-4d8a-8bc3-79602223d9ae
+**Dimensions:** 4.5 x 4.5 mm
+**Power Requirements:** 25 mW
+**Capabilities:** UART, DDC, GLONASS, GALILEO
+**Notes:** There's a max versoin of this 10mmx9mm that could be a great option.
+
+## Quectel_LS550G00
+**Price:** $11  https://www.soselectronic.com/en-tr/products/quectel/ls550g00aamd-414549?utm_source=chatgpt.com
+**Dimensions:** 5 x5 mm
+**Power Requirements:** 25 mW
+**Capabilities:** UART,I2C, SPI, GLONASS, GALILEO
+**Notes:** Unavailabe at the moment? SOS electronics says October but maybe sus?
+
+
 ## u-blox_UBX-M10150-CC
 **Price:** Contact manufacturer / distributor for quote
 **Dimensions:** 2.39 x 2.39 mm
@@ -23,7 +38,7 @@
 
 ## Ebyte_E108-GN04Q
 **Price:** No verified public price found
-**Dimensions:** 
+**Dimensions:** Too big I think
 **Power Requirements:** 
 **Capabilities:** Multi-mode GNSS
 **Notes:** Confirm exact dimensions and environmental specifications.
