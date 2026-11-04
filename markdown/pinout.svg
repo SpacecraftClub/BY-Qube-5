@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   viewBox="0 0 816 1056"
+   height="1056"
+   width="816"
+   xml:space="preserve"
+   id="svg2"
+   version="1.1"><metadata
+     id="metadata8"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs6"><clipPath
+       id="clipPath18"
+       clipPathUnits="userSpaceOnUse"><path
+         style="clip-rule:evenodd"
+         id="path16"
+         d="M 0,0.028 H 611.971 V 791.999 H 0 Z" /></clipPath><clipPath
+       id="clipPath26"
+       clipPathUnits="userSpaceOnUse"><path
+         style="clip-rule:evenodd"
+         id="path24"
+         d="m 56.7,721.2 h 498.55 v 14.099 H 56.7 Z" /></clipPath><clipPath
+       id="clipPath44"
+       clipPathUnits="userSpaceOnUse"><path
+         style="clip-rule:evenodd"
+         id="path42"
+         d="M 56.7,56.799 H 555.25 V 70.898 H 56.7 Z" /></clipPath></defs><g
+     transform="matrix(1.3333333,0,0,-1.3333333,0,1056)"
+     id="g10"><g
+       id="g12"><g
+         clip-path="url(#clipPath18)"
+         id="g14" /></g><g
+       id="g20"><g
+         clip-path="url(#clipPath26)"
+         id="g22"><g
+           id="g28" /><g
+           id="g30">
+</g><g
+           id="g36" /></g></g><g
+       id="g62"><text
+         id="text66"
+         style="font-variant:normal;font-weight:normal;font-size:10.00599957px;font-family:DepartureMonoNF;-inkscape-font-specification:DepartureMonoNF-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,57.685,704.183)"><tspan
+           id="tspan64"
+           y="0"
+           x="0 6.3638158 12.727632 19.091448 25.455263 31.81908">Pinout</tspan></text>
+</g><g
+       id="g68"><text
+         id="text72"
+         style="font-variant:normal;font-weight:normal;font-size:10.00599957px;font-family:DepartureMonoNF;-inkscape-font-specification:DepartureMonoNF-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,121.663,704.183)"><tspan
+           id="tspan70"
+           y="0"
+           x="0 6.3638158 12.727632 19.091448 25.455263 31.81908 38.182896 44.546711 50.910526 57.274345">Processing</tspan></text>
+</g><g
+       id="g74"><text
+         id="text78"
+         style="font-variant:normal;font-weight:normal;font-size:10.00599957px;font-family:DepartureMonoNF;-inkscape-font-specification:DepartureMonoNF-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,236.693,704.183)"><tspan
+           id="tspan76"
+           y="0"
+           x="0 6.3638158 12.727632 19.091448 25.455263">Power</tspan></text>
+</g><g
+       id="g80"><text
+         id="text84"
+         style="font-variant:normal;font-weight:normal;font-size:10.00599957px;font-family:DepartureMonoNF;-inkscape-font-specification:DepartureMonoNF-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,346.592,704.183)"><tspan
+           id="tspan82"
+           y="0"
+           x="0 6.3638158 12.727632 19.091448 25.455263 31.81908 38.182896">Sensors</tspan></text>
+</g><g
+       id="g86"><text
+         id="text90"
+         style="font-variant:normal;font-weight:normal;font-size:10.00599957px;font-family:DepartureMonoNF;-inkscape-font-specification:DepartureMonoNF-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,57.685,690.605)"><tspan
+           id="tspan88"
+           y="0"
+           x="0 6.3638158">A1</tspan></text>
+</g><g
+       id="g92"><text
+         id="text96"
+         style="font-variant:normal;font-weight:normal;font-size:10.00599957px;font-family:DepartureMonoNF;-inkscape-font-specification:DepartureMonoNF-Regular;writing-mode:lr-tb;fill:#a1467e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,121.663,690.605)"><tspan
+           id="tspan94"
+           y="0"
+           x="0 6.3638158 12.727632 19.091448 25.455263 31.81908 38.182896 44.546711 50.910526 57.274345">I2C Signal</tspan></text>
+</g><g
+       id="g98"><text
+         id="text102"
+         style="font-variant:normal;font-weight:normal;font-size:10.00599957px;font-family:DepartureMonoNF;-inkscape-font-specification:DepartureMonoNF-Regular;writing-mode:lr-tb;fill:#a1467e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,236.693,690.605)"><tspan
+           id="tspan100"
+           y="0"
+           x="0 6.3638158 12.727632 19.091448 25.455263 31.81908 38.182896 44.546711 50.910526 57.274345">I2C Signal</tspan></text>
+</g><g
+       id="g104"><text
+         id="text108"
+         style="font-variant:normal;font-weight:normal;font-size:10.00599957px;font-family:DepartureMonoNF;-inkscape-font-specification:DepartureMonoNF-Regular;writing-mode:lr-tb;fill:#a1467e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,346.592,690.605)"><tspan
+           id="tspan106"
+           y="0"
+           x="0 6.3638158 12.727632 19.091448 25.455263 31.81908 38.182896 44.546711 50.910526 57.274345">I2C Signal</tspan></text>
+</g><g
+       id="g110"><text
+         id="text114"
+         style="font-variant:normal;font-weight:normal;font-size:10.00599957px;font-family:DepartureMonoNF;-inkscape-font-specification:DepartureMonoNF-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,57.685,677.027)"><tspan
+           id="tspan112"
+           y="0"
+           x="0 6.3638158">A2</tspan></text>
+</g><g
+       id="g116"><text
+         id="text120"
+         style="font-variant:normal;font-weight:normal;font-size:10.00599957px;font-family:DepartureMonoNF;-inkscape-font-specification:DepartureMonoNF-Regular;writing-mode:lr-tb;fill:#a1467e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,121.663,677.027)"><tspan
+           id="tspan118"
+           y="0"
+           x="0 6.3638158 12.727632 19.091448 25.455263 31.81908 38.182896 44.546711 50.910526">I2C Clock</tspan></text>
+</g><g
+       id="g122"><text
+         id="text126"
+         style="font-variant:normal;font-weight:normal;font-size:10.00599957px;font-family:DepartureMonoNF;-inkscape-font-specification:DepartureMonoNF-Regular;writing-mode:lr-tb;fill:#a1467e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,236.693,677.027)"><tspan
+           id="tspan124"
+           y="0"
+           x="0 6.3638158 12.727632 19.091448 25.455263 31.81908 38.182896 44.546711 50.910526">I2C Clock</tspan></text>
+</g><g
+       id="g128"><text
+         id="text132"
+         style="font-variant:normal;font-weight:normal;font-size:10.00599957px;font-family:DepartureMonoNF;-inkscape-font-specification:DepartureMonoNF-Regular;writing-mode:lr-tb;fill:#a1467e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,346.592,677.027)"><tspan
+           id="tspan130"
+           y="0"
+           x="0 6.3638158 12.727632 19.091448 25.455263 31.81908 38.182896 44.546711 50.910526">I2C Clock</tspan></text>
+</g><g
+       id="g134"><text
+         id="text138"
+         style="font-variant:normal;font-weight:normal;font-size:10.00599957px;font-family:DepartureMonoNF;-inkscape-font-specification:DepartureMonoNF-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,57.685,663.449)"><tspan
+           id="tspan136"
+           y="0"
+           x="0 6.3638158">A3</tspan></text>
+</g><g
+       id="g140"><text
+         id="text144"
+         style="font-variant:normal;font-weight:normal;font-size:10.00599957px;font-family:DepartureMonoNF;-inkscape-font-specification:DepartureMonoNF-Regular;writing-mode:lr-tb;fill:#3465a4;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,121.663,663.449)"><tspan
+           id="tspan142"
+           y="0"
+           x="0 6.3638158 12.727632 19.091448 25.455263 31.81908 38.182896 44.546711 50.910526 57.274345">SPI Select</tspan></text>
+</g><g
+       id="g146"><text
+         id="text150"
+         style="font-variant:normal;font-weight:normal;font-size:10.00599957px;font-family:DepartureMonoNF;-inkscape-font-specification:DepartureMonoNF-Regular;writing-mode:lr-tb;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,236.693,663.449)"><tspan
+           id="tspan148"
+           y="0"
+           x="0 6.3638158 12.727632">RBF</tspan></text>
+</g><g
+       id="g152"><text
+         id="text156"
+         style="font-variant:normal;font-weight:normal;font-size:10.00599957px;font-family:DepartureMonoNF;-inkscape-font-specification:DepartureMonoNF-Regular;writing-mode:lr-tb;fill:#3465a4;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,346.592,663.449)"><tspan
+           id="tspan154"
+           y="0"
+           x="0 6.3638158 12.727632 19.091448 25.455263 31.81908 38.182896 44.546711 50.910526 57.274345">SPI Select</tspan></text>
+</g><g
+       id="g158"><text
+         id="text162"
+         style="font-variant:normal;font-weight:normal;font-size:10.00599957px;font-family:DepartureMonoNF;-inkscape-font-specification:DepartureMonoNF-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,57.685,649.871)"><tspan
+           id="tspan160"
+           y="0"
+           x="0 6.3638158">A4</tspan></text>
+</g><g
+       id="g164"><text
+         id="text168"
+         style="font-variant:normal;font-weight:normal;font-size:10.00599957px;font-family:DepartureMonoNF;-inkscape-font-specification:DepartureMonoNF-Regular;writing-mode:lr-tb;fill:#3465a4;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,121.663,649.871)"><tspan
+           id="tspan166"
+           y="0"
+           x="0 6.3638158 12.727632 19.091448 25.455263 31.81908 38.182896 44.546711 50.910526">SPI Clock</tspan></text>
+</g><g
+       id="g170"><text
+         id="text174"
+         style="font-variant:normal;font-weight:normal;font-size:10.00599957px;font-family:DepartureMonoNF;-inkscape-font-specification:DepartureMonoNF-Regular;writing-mode:lr-tb;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,236.693,649.871)"><tspan
+           id="tspan172"
+           y="0"
+           x="0 6.3638158 12.727632 19.091448 25.455263 31.81908 38.182896 44.546711 50.910526 57.274345">Side Solar</tspan></text>
+</g><g
+       id="g176"><text
+         id="text180"
+         style="font-variant:normal;font-weight:normal;font-size:10.00599957px;font-family:DepartureMonoNF;-inkscape-font-specification:DepartureMonoNF-Regular;writing-mode:lr-tb;fill:#3465a4;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,346.592,649.871)"><tspan
+           id="tspan178"
+           y="0"
+           x="0 6.3638158 12.727632 19.091448 25.455263 31.81908 38.182896 44.546711 50.910526">SPI Clock</tspan></text>
+</g><g
+       id="g182"><text
+         id="text186"
+         style="font-variant:normal;font-weight:normal;font-size:10.00599957px;font-family:DepartureMonoNF;-inkscape-font-specification:DepartureMonoNF-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,57.685,636.293)"><tspan
+           id="tspan184"
+           y="0"
+           x="0 6.3638158">A5</tspan></text>
+</g><g
+       id="g188"><text
+         id="text192"
+         style="font-variant:normal;font-weight:normal;font-size:10.00599957px;font-family:DepartureMonoNF;-inkscape-font-specification:DepartureMonoNF-Regular;writing-mode:lr-tb;fill:#3465a4;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,121.663,636.293)"><tspan
+           id="tspan190"
+           y="0"
+           x="0 6.3638158 12.727632 19.091448 25.455263 31.81908 38.182896 44.546711">SPI MISO</tspan></text>
+</g><g
+       id="g194"><text
+         id="text198"
+         style="font-variant:normal;font-weight:normal;font-size:10.00599957px;font-family:DepartureMonoNF;-inkscape-font-specification:DepartureMonoNF-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,236.693,636.293)"><tspan
+           id="tspan196"
+           y="0"
+           x="0 6.3638158 12.727632">GND</tspan></text>
+</g><g
+       id="g200"><text
+         id="text204"
+         style="font-variant:normal;font-weight:normal;font-size:10.00599957px;font-family:DepartureMonoNF;-inkscape-font-specification:DepartureMonoNF-Regular;writing-mode:lr-tb;fill:#3465a4;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,346.592,636.293)"><tspan
+           id="tspan202"
+           y="0"
+           x="0 6.3638158 12.727632 19.091448 25.455263 31.81908 38.182896 44.546711">SPI MISO</tspan></text>
+</g><g
+       id="g206"><text
+         id="text210"
+         style="font-variant:normal;font-weight:normal;font-size:10.00599957px;font-family:DepartureMonoNF;-inkscape-font-specification:DepartureMonoNF-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,57.685,622.715)"><tspan
+           id="tspan208"
+           y="0"
+           x="0 6.3638158">A6</tspan></text>
+</g><g
+       id="g212"><text
+         id="text216"
+         style="font-variant:normal;font-weight:normal;font-size:10.00599957px;font-family:DepartureMonoNF;-inkscape-font-specification:DepartureMonoNF-Regular;writing-mode:lr-tb;fill:#3465a4;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,121.663,622.715)"><tspan
+           id="tspan214"
+           y="0"
+           x="0 6.3638158 12.727632 19.091448 25.455263 31.81908 38.182896 44.546711">SPI MOSI</tspan></text>
+</g><g
+       id="g218"><text
+         id="text222"
+         style="font-variant:normal;font-weight:normal;font-size:10.00599957px;font-family:DepartureMonoNF;-inkscape-font-specification:DepartureMonoNF-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,236.693,622.715)"><tspan
+           id="tspan220"
+           y="0"
+           x="0 6.3638158 12.727632">GND</tspan></text>
+</g><g
+       id="g224"><text
+         id="text228"
+         style="font-variant:normal;font-weight:normal;font-size:10.00599957px;font-family:DepartureMonoNF;-inkscape-font-specification:DepartureMonoNF-Regular;writing-mode:lr-tb;fill:#3465a4;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,346.592,622.715)"><tspan
+           id="tspan226"
+           y="0"
+           x="0 6.3638158 12.727632 19.091448 25.455263 31.81908 38.182896 44.546711">SPI MOSI</tspan></text>
+</g><g
+       id="g230"><text
+         id="text234"
+         style="font-variant:normal;font-weight:normal;font-size:10.00599957px;font-family:DepartureMonoNF;-inkscape-font-specification:DepartureMonoNF-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,57.685,609.137)"><tspan
+           id="tspan232"
+           y="0"
+           x="0 6.3638158">B1</tspan></text>
+</g><g
+       id="g236"><text
+         id="text240"
+         style="font-variant:normal;font-weight:normal;font-size:10.00599957px;font-family:DepartureMonoNF;-inkscape-font-specification:DepartureMonoNF-Regular;writing-mode:lr-tb;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,121.663,609.137)"><tspan
+           id="tspan238"
+           y="0"
+           x="0 6.3638158 12.727632 19.091448 25.455263 31.81908 38.182896 44.546711 50.910526 57.274345 63.638161 70.001976 76.365791 82.729607">3v3 Processing</tspan></text>
+</g><g
+       id="g242"><text
+         id="text246"
+         style="font-variant:normal;font-weight:normal;font-size:10.00599957px;font-family:DepartureMonoNF;-inkscape-font-specification:DepartureMonoNF-Regular;writing-mode:lr-tb;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,236.693,609.137)"><tspan
+           id="tspan244"
+           y="0"
+           x="0 6.3638158 12.727632 19.091448 25.455263 31.81908 38.182896 44.546711 50.910526 57.274345 63.638161 70.001976 76.365791 82.729607">3v3 Processing</tspan></text>
+</g><g
+       id="g248"><text
+         id="text252"
+         style="font-variant:normal;font-weight:normal;font-size:10.00599957px;font-family:DepartureMonoNF;-inkscape-font-specification:DepartureMonoNF-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,346.592,609.137)"><tspan
+           id="tspan250"
+           y="0"
+           x="0 6.3638158 12.727632">GND</tspan></text>
+</g><g
+       id="g254"><text
+         id="text258"
+         style="font-variant:normal;font-weight:normal;font-size:10.00599957px;font-family:DepartureMonoNF;-inkscape-font-specification:DepartureMonoNF-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,57.685,595.559)"><tspan
+           id="tspan256"
+           y="0"
+           x="0 6.3638158">B2</tspan></text>
+</g><g
+       id="g260"><text
+         id="text264"
+         style="font-variant:normal;font-weight:normal;font-size:10.00599957px;font-family:DepartureMonoNF;-inkscape-font-specification:DepartureMonoNF-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,121.663,595.559)"><tspan
+           id="tspan262"
+           y="0"
+           x="0 6.3638158 12.727632">GND</tspan></text>
+</g><g
+       id="g266"><text
+         id="text270"
+         style="font-variant:normal;font-weight:normal;font-size:10.00599957px;font-family:DepartureMonoNF;-inkscape-font-specification:DepartureMonoNF-Regular;writing-mode:lr-tb;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,236.693,595.559)"><tspan
+           id="tspan268"
+           y="0"
+           x="0 6.3638158 12.727632 19.091448 25.455263 31.81908 38.182896 44.546711 50.910526 57.274345 63.638161">3v3 Sensors</tspan></text>
+</g><g
+       id="g272"><text
+         id="text276"
+         style="font-variant:normal;font-weight:normal;font-size:10.00599957px;font-family:DepartureMonoNF;-inkscape-font-specification:DepartureMonoNF-Regular;writing-mode:lr-tb;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,346.592,595.559)"><tspan
+           id="tspan274"
+           y="0"
+           x="0 6.3638158 12.727632 19.091448 25.455263 31.81908 38.182896 44.546711 50.910526 57.274345 63.638161">3v3 Sensors</tspan></text>
+</g><g
+       id="g278"><text
+         id="text282"
+         style="font-variant:normal;font-weight:normal;font-size:10.00599957px;font-family:DepartureMonoNF;-inkscape-font-specification:DepartureMonoNF-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,57.685,581.981)"><tspan
+           id="tspan280"
+           y="0"
+           x="0 6.3638158">B3</tspan></text>
+</g><g
+       id="g284"><text
+         id="text288"
+         style="font-variant:normal;font-weight:normal;font-size:10.00599957px;font-family:DepartureMonoNF;-inkscape-font-specification:DepartureMonoNF-Regular;writing-mode:lr-tb;fill:#ff8000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,121.663,581.981)"><tspan
+           id="tspan286"
+           y="0"
+           x="0 6.3638158 12.727632 19.091448 25.455263 31.81908 38.182896 44.546711 50.910526 57.274345 63.638161 70.001976 76.365791 82.729607">ADC Radiometer</tspan></text>
+</g><g
+       id="g290"><text
+         id="text294"
+         style="font-variant:normal;font-weight:normal;font-size:10.00599957px;font-family:DepartureMonoNF;-inkscape-font-specification:DepartureMonoNF-Regular;writing-mode:lr-tb;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,236.693,581.981)"><tspan
+           id="tspan292"
+           y="0"
+           x="0 6.3638158 12.727632 19.091448 25.455263 31.81908 38.182896 44.546711 50.910526 57.274345">3v3 Camera</tspan></text>
+</g><g
+       id="g296"><text
+         id="text300"
+         style="font-variant:normal;font-weight:normal;font-size:10.00599957px;font-family:DepartureMonoNF;-inkscape-font-specification:DepartureMonoNF-Regular;writing-mode:lr-tb;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,346.592,581.981)"><tspan
+           id="tspan298"
+           y="0"
+           x="0 6.3638158 12.727632 19.091448 25.455263 31.81908 38.182896 44.546711 50.910526 57.274345">3v3 Camera</tspan></text>
+</g><g
+       id="g302"><text
+         id="text306"
+         style="font-variant:normal;font-weight:normal;font-size:10.00599957px;font-family:DepartureMonoNF;-inkscape-font-specification:DepartureMonoNF-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,57.685,568.403)"><tspan
+           id="tspan304"
+           y="0"
+           x="0 6.3638158">B4</tspan></text>
+</g><g
+       id="g308"><text
+         id="text312"
+         style="font-variant:normal;font-weight:normal;font-size:10.00599957px;font-family:DepartureMonoNF;-inkscape-font-specification:DepartureMonoNF-Regular;writing-mode:lr-tb;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,121.663,568.403)"><tspan
+           id="tspan310"
+           y="0"
+           x="0 6.3638158 12.727632 19.091448 25.455263 31.81908 38.182896 44.546711 50.910526 57.274345 63.638161 70.001976 76.365791 82.729607 89.093422 95.457237">Processing Solar</tspan></text>
+</g><g
+       id="g314"><text
+         id="text318"
+         style="font-variant:normal;font-weight:normal;font-size:10.00599957px;font-family:DepartureMonoNF;-inkscape-font-specification:DepartureMonoNF-Regular;writing-mode:lr-tb;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,236.693,568.403)"><tspan
+           id="tspan316"
+           y="0"
+           x="0 6.3638158 12.727632 19.091448 25.455263 31.81908 38.182896 44.546711 50.910526 57.274345 63.638161 70.001976 76.365791 82.729607 89.093422 95.457237">Processing Solar</tspan></text>
+</g><g
+       id="g320"><text
+         id="text324"
+         style="font-variant:normal;font-weight:normal;font-size:10.00599957px;font-family:DepartureMonoNF;-inkscape-font-specification:DepartureMonoNF-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,346.592,568.403)"><tspan
+           id="tspan322"
+           y="0"
+           x="0 6.3638158 12.727632">GND</tspan></text>
+</g><g
+       id="g326"><text
+         id="text330"
+         style="font-variant:normal;font-weight:normal;font-size:10.00599957px;font-family:DepartureMonoNF;-inkscape-font-specification:DepartureMonoNF-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,57.685,554.825)"><tspan
+           id="tspan328"
+           y="0"
+           x="0 6.3638158">B5</tspan></text>
+</g><g
+       id="g332"><text
+         id="text336"
+         style="font-variant:normal;font-weight:normal;font-size:10.00599957px;font-family:DepartureMonoNF;-inkscape-font-specification:DepartureMonoNF-Regular;writing-mode:lr-tb;fill:#00a933;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,121.663,554.825)"><tspan
+           id="tspan334"
+           y="0"
+           x="0 6.3638158 12.727632 19.091448 25.455263 31.81908 38.182896 44.546711 50.910526">Camera EN</tspan></text>
+</g><g
+       id="g338"><text
+         id="text342"
+         style="font-variant:normal;font-weight:normal;font-size:10.00599957px;font-family:DepartureMonoNF;-inkscape-font-specification:DepartureMonoNF-Regular;writing-mode:lr-tb;fill:#00a933;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,236.693,554.825)"><tspan
+           id="tspan340"
+           y="0"
+           x="0 6.3638158 12.727632 19.091448 25.455263 31.81908 38.182896 44.546711 50.910526">Camera EN</tspan></text>
+</g><g
+       id="g344"><text
+         id="text348"
+         style="font-variant:normal;font-weight:normal;font-size:10.00599957px;font-family:DepartureMonoNF;-inkscape-font-specification:DepartureMonoNF-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,346.592,554.825)"><tspan
+           id="tspan346"
+           y="0"
+           x="0 6.3638158 12.727632">GND</tspan></text>
+</g><g
+       id="g350"><text
+         id="text354"
+         style="font-variant:normal;font-weight:normal;font-size:10.00599957px;font-family:DepartureMonoNF;-inkscape-font-specification:DepartureMonoNF-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,57.685,541.247)"><tspan
+           id="tspan352"
+           y="0"
+           x="0 6.3638158">B6</tspan></text>
+</g><g
+       id="g356"><text
+         id="text360"
+         style="font-variant:normal;font-weight:normal;font-size:10.00599957px;font-family:DepartureMonoNF;-inkscape-font-specification:DepartureMonoNF-Regular;writing-mode:lr-tb;fill:#00a933;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,121.663,541.247)"><tspan
+           id="tspan358"
+           y="0"
+           x="0 6.3638158 12.727632 19.091448 25.455263 31.81908 38.182896 44.546711 50.910526">Sensor EN</tspan></text>
+</g><g
+       id="g362"><text
+         id="text366"
+         style="font-variant:normal;font-weight:normal;font-size:10.00599957px;font-family:DepartureMonoNF;-inkscape-font-specification:DepartureMonoNF-Regular;writing-mode:lr-tb;fill:#00a933;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,236.693,541.247)"><tspan
+           id="tspan364"
+           y="0"
+           x="0 6.3638158 12.727632 19.091448 25.455263 31.81908 38.182896 44.546711 50.910526">Sensor EN</tspan></text>
+</g><g
+       id="g368"><text
+         id="text372"
+         style="font-variant:normal;font-weight:normal;font-size:10.00599957px;font-family:DepartureMonoNF;-inkscape-font-specification:DepartureMonoNF-Regular;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         transform="matrix(1,0,0,-1,346.592,541.247)"><tspan
+           id="tspan370"
+           y="0"
+           x="0 6.3638158 12.727632">GND</tspan></text>
+</g></g></svg>
