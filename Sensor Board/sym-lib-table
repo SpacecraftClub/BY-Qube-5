@@ -7,4 +7,5 @@
 	(lib (name "MMC5603NJ") (type "KiCad") (uri "${KIPRJMOD}/MMC5603NJ/MMC5603NJ.kicad_sym") (options "") (descr ""))
 	(lib (name "MS5611-01BA03") (type "KiCad") (uri "${KIPRJMOD}/MS5611/MS5611-01BA03.kicad_sym") (options "") (descr ""))
 	(lib (name "SN74LVC125ANSR") (type "KiCad") (uri "${KIPRJMOD}/SN74LVC125ANSR/SN74LVC125ANSR.kicad_sym") (options "") (descr ""))
+	(lib (name "ARDUcam_mega") (type "KiCad") (uri "${KIPRJMOD}/ARDUcam_mega/ARDUcam_mega.kicad_sym") (options "") (descr ""))
 )
