@@ -13,4 +13,5 @@ Using a blade design for interfacing the boards into eachother rather than crimp
 <img src="markdown/Renders/Render Layers 1.png" alt="BY-QUBE-4 1" width="50%" height="50%"></img><img src="markdown/Renders/Render Layers 2.png" alt="BY-QUBE-4 1" width="50%" height="50%"></img>
 <img src="markdown/Renders/Render Layers 3.png" alt="BY-QUBE-4 1" width="50%" height="50%"></img>
 
-##
+## Design Reviews
+[Nov 3rd 2026](markdown/Design%20Review/Nov-3-2026.md)
