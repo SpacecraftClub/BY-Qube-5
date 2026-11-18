@@ -2,4 +2,7 @@
 	(version 7)
 	(lib (name "M55_7101242R") (type "KiCad") (uri "${KIPRJMOD}/Libraries/M55_7101242R/M55_7101242R.kicad_sym") (options "") (descr ""))
 	(lib (name "silk logo") (type "KiCad") (uri "${KIPRJMOD}/silk logo.kicad_sym") (options "") (descr ""))
+	(lib (name "BQ24650_sym") (type "KiCad") (uri "${KIPRJMOD}/Components/BQ24650/BQ24650_sym.kicad_sym") (options "") (descr ""))
+	(lib (name "MIC23050-SYML-TR_sym") (type "KiCad") (uri "${KIPRJMOD}/Components/MIC23050-SYML-TR/MIC23050-SYML-TR_sym.kicad_sym") (options "") (descr ""))
+	(lib (name "TPS79333DBVR_sym") (type "KiCad") (uri "${KIPRJMOD}/Components/TPS79333DBVR/TPS79333DBVR_sym.kicad_sym") (options "") (descr ""))
 )

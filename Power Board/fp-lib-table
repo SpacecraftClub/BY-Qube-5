@@ -10,4 +10,7 @@
 	(lib (name "SM101K") (type "KiCad") (uri "${KIPRJMOD}/Libraries/SM101K") (options "") (descr ""))
 	(lib (name "M55_7101242R") (type "KiCad") (uri "${KIPRJMOD}/Libraries/M55_7101242R") (options "") (descr ""))
 	(lib (name "PocketQube Footprints") (type "KiCad") (uri "${KIPRJMOD}/PocketQube Footprints.pretty") (options "") (descr ""))
+	(lib (name "BQ24650") (type "KiCad") (uri "${KIPRJMOD}/Components/BQ24650/footprints.pretty") (options "") (descr ""))
+	(lib (name "MIC23050") (type "KiCad") (uri "${KIPRJMOD}/Components/MIC23050-SYML-TR/footprints.pretty") (options "") (descr ""))
+	(lib (name "TPS79333") (type "KiCad") (uri "${KIPRJMOD}/Components/TPS79333DBVR/footprints.pretty") (options "") (descr ""))
 )

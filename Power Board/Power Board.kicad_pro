@@ -50,7 +50,23 @@
         "silk_text_thickness": 0.1,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.5
+          "border_display_style": 2,
+          "border_hatch_pitch": 0.5,
+          "corner_radius": 0.0,
+          "corner_smoothing": 0,
+          "fill_mode": 0,
+          "hatch_gap": 1.5,
+          "hatch_orientation": 0.0,
+          "hatch_smoothing_level": 0,
+          "hatch_smoothing_value": 0.1,
+          "hatch_thickness": 1.0,
+          "min_clearance": 0.5,
+          "min_island_area": 10.0,
+          "min_thickness": 0.25,
+          "pad_connection": 1,
+          "remove_islands": 0,
+          "thermal_relief_gap": 0.5,
+          "thermal_relief_spoke_width": 0.5
         }
       },
       "diff_pair_dimensions": [],
@@ -518,6 +534,7 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
+      "step": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -636,17 +653,26 @@
     "top_level_sheets": [
       {
         "filename": "Power Board.kicad_sch",
-        "name": "Root",
+        "name": "25-26 Power Board",
         "uuid": "55f088ac-5e7f-4e73-8f04-597c86533a51"
+      },
+      {
+        "filename": "26-27_power_board.kicad_sch",
+        "name": "26-27 Power Board",
+        "uuid": "cb6fb7b5-312a-4945-a7b5-f290745416ca"
       }
     ],
-    "used_designators": "",
+    "used_designators": "SC2,U1,U5,U7,G2,J10-18,#PWR12-22",
     "variants": []
   },
   "sheets": [
     [
       "55f088ac-5e7f-4e73-8f04-597c86533a51",
-      "Root"
+      "25-26 Power Board"
+    ],
+    [
+      "cb6fb7b5-312a-4945-a7b5-f290745416ca",
+      "26-27 Power Board"
     ]
   ],
   "text_variables": {},
